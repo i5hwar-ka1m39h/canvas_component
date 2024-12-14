@@ -248,7 +248,7 @@ const MaskDrawingApp = () => {
               src={originalImage.src} 
               alt="Original" 
              
-              style={{ maxWidth: '50%', height: '50%' }}
+              style={{ maxWidth: '25%', height: '50%' }}
             />
           </div>
           <div>
