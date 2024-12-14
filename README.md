@@ -57,4 +57,15 @@ The output files will be located in the `dist` directory.
 
 
 ## Challeges faced
-Initially i tried to use 
+Initially i tried to use the fabricjs library but few methods of the library were deprecated,
+ so i tried using canvas draw but it doesn't supports the react latest version it was built n react 16 and 17
+ then i just wrote the code without using any library i did need help of gpt to fix some bugs but here is the code and
+
+
+## deployed site 
+https://canvas-component.vercel.app/
+
+
+## note 
+here is the link to backend but is was just tested locally and I am new to python and fastapi :
+https://github.com/i5hwar-ka1m39h/fast_api
